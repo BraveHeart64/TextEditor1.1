@@ -1,0 +1,14 @@
+ 	        	Ryan Text Document!
+
+
+ 
+
+
+ Missing Features
+ the needs to be able to print out the document.
+ We need a Jlabel to show the current file name that is open.
+ Need to add a way for the program to open another instance of itself
+
+
+from 
+Ryan Love		

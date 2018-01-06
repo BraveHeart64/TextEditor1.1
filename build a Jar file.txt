@@ -1,0 +1,10 @@
+                                                 How to build a jar file in Java
+
+1. build manifest file, include main class name and add to spaces at the 
+   end of the file.
+2. compile java program with javac *.java
+
+3. Open terminal and type jar cfm nameOfProgram.jar manifest.txt  nameOfClassFiles.
+    Include all classes in your project and pictures
+
+4. click on your jar file. On some systems, you need to enable the jar file to be an excutable.
